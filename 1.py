@@ -2,7 +2,7 @@ from utils.neuron import Neuron, step_function
 import numpy as np
 
 
-# 2. Genere cinco nuevas entradas multiplicando por 2 el valor de las entradas y pruebelas con el perceptrón.
+# 1. Genere cuatro nuevas entradas aleatorias y pruébelas con el perceptrón.
 
 # Perceptron input size:
 input_size = 4
